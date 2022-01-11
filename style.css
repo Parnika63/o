@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(197, 193, 255);
+    font-family:  'Amatic SC', cursive;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+}
+span
+{
+	font-size: 12px;
+	color: rgb(255, 255, 255);
+}
+canvas
+{
+	background: rgb(225, 192, 255);
+	border-radius: 20px;
+}
